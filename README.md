@@ -1,6 +1,6 @@
 # Small projects to learn Dart
 
-The idea of this projects is to learn Dart by doing. The idea is inspired on this article [https://www.jamesbaum.co.uk/blether/projects-to-learn-programming-language/](https://www.jamesbaum.co.uk/blether/projects-to-learn-programming-language/).
+The idea of these projects is to learn Dart by doing. The idea is inspired by this article [https://www.jamesbaum.co.uk/blether/projects-to-learn-programming-language/](https://www.jamesbaum.co.uk/blether/projects-to-learn-programming-language/).
 
 Every folder contains a README text of how to run each example.
 
