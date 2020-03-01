@@ -6,8 +6,8 @@ Every folder contains a README text of how to run each example.
 
 ## Beginner
 
-1. [x] Write a programme which finds the factorial of a number entered by the user. (check for all conditions).
-2. [x] Develop a programme to convert between units (feets <-> meters).
+1. [x] Write a programme which finds the factorial of a number entered by the user. (check for all conditions). [factorial](https://github.com/oliversd/learning-dart/tree/master/factorial)
+2. [x] Develop a programme to convert between units (feets <-> meters). [unit_converter](https://github.com/oliversd/learning-dart/tree/master/unit_converter).
 3. [ ] Write a programme that prins out a triangle from largest to smallest; user inputs the largest number. Eg:
 
 ```
