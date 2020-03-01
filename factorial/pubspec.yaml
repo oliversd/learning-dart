@@ -1,8 +1,8 @@
 name: factorial
-description: A sample command-line application.
+description: Get the factorial of a number.
 version: 1.0.0
 author: Olivers De Abreu <olivers@symmetricslab.com>
-# homepage: https://www.example.com
+homepage: https://symmetricslab.com
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
