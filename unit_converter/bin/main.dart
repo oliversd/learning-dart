@@ -31,9 +31,13 @@ int main(List<String> arguments) {
       help();
       return 1;
     }
-
-    print(
-        'Hello world: ${converter.converter(measurement, arguments[0].trim())}!');
+    if (arguments[0].trim() == 'm') {
+      print(
+          '$measurement feets are ${converter.converter(measurement, arguments[0].trim())} meters');
+    } else {
+      print(
+          '$measurement meters are ${converter.converter(measurement, arguments[0].trim())} feets');
+    }
   } else {
     print(
         '\x1B[31m Error: You have to define from what unit you want to convert from (f: feet, m: meters) \x1B[0m');
