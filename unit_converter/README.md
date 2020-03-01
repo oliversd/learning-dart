@@ -13,7 +13,12 @@ To get all the packages.
 To run the CLI app from the terminal just execute:
 
 ```
-dart bin/main.dart
+Use:  dart bin/main.dart f 10   # converts 10 feets to meters
+Use:  dart bin/main.dart m 10   # converts 10 meters to feets
+Options:
+ --help, h: Prints this message
+ f [number]: Feets to meters
+ m [number]: Meters to feets
 ```
 
 Run Tests
